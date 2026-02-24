@@ -4,5 +4,5 @@ I’m studying Industrial Engineering at the KUL in Ghent. And I sometimes code 
 
 
 ## https://flodlol.dev
-
+📫 Contact: `jonas.meuleman@icloud.com`
 
