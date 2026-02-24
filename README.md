@@ -1,6 +1,9 @@
 ### 👋 Hi, I'm Jonas
+Industrial Engineering student @ KU Leuven (Ghent) building small, useful dev tools.
 
-I’m studying Industrial Engineering at the KUL in Ghent. And I sometimes code in my free time.
+- Focus: TypeScript, Python, automation & developer tooling
+- Currently building: [Study-Track](https://study-track.app)
+- Open to: internships / student jobs / collaboration (Belgium / remote)
 
 
 ## https://flodlol.dev
