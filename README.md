@@ -7,5 +7,5 @@ Industrial Engineering student @ KU Leuven (Ghent) building small, useful dev to
 
 
 ## https://flodlol.dev
-📫 Contact: `jonas.meuleman@icloud.com`
+📫 Contact: `jonas.meuleman@icloud.com` <br>
 💬 Discord: `@.flod` / `@jonasjonsas`
