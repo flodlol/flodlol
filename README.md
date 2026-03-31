@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Jonas
-Industrial Engineering student @ KU Leuven (Ghent) building small, useful dev tools.
+Industrial Engineering student @ KU Leuven (Ghent).
 
-- Focus: TypeScript, Python, automation & developer tooling
+- Focus: React, TypeScript, Python, automation & developer tooling
 - Currently building: [Study-Track](https://study-track.app)
 - Open to: internships / student jobs / collaboration (Belgium / remote)
 
